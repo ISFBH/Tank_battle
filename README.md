@@ -1,4 +1,4 @@
-# 🎮 坦克大战 (Parody) - 摸鱼专用联机版
+# 🎮 老大坦克大战 - 摸鱼专用联机版
 
 [![Version](https://img.shields.io/badge/version-V0.10.0--beta-orange)](https://github.com/ISFBH/Tank_battle/releases)
 [![Python](https://img.shields.io/badge/python-3.6+-blue)](https://www.python.org/)
