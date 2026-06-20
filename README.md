@@ -1,3 +1,34 @@
-# Tank-battle-Parody_Version
-(这只是为了玩，无任何恶意)
-This is my first game
+# 🎮 坦克大战 (Parody) - 摸鱼专用联机版
+
+[![Version](https://img.shields.io/badge/version-V0.10.0--beta-orange)](https://github.com/ISFBH/Tank_battle/releases)
+[![Python](https://img.shields.io/badge/python-3.6+-blue)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/html-纯原生-green)]()
+
+> **⚠️ 当前状态：联机功能刚出炉，正在测试中！欢迎提 Issue 抓 BUG。**
+
+---
+
+## 📖 这是什么？
+
+一款用 **纯 HTML + Python WebSocket** 写的《坦克大战》网页游戏。
+
+**核心使命**：让你在**上课**或**上班**摸鱼时，能拉上同桌/同事，在**局域网**里偷偷联机开黑！🚀
+
+---
+
+## ✨ 特色功能
+
+- 🕹️ **经典核心玩法**：移动（WASD / 方向键）、射击（空格 / J 键）、经典 AI 敌人。
+- 🌐 **局域网联机（V0.10.0 新特性）**：基于 Python 中继服务器，支持 2 人实时联机合作/对战。
+- 🏠 **房间系统**：5 位随机房间码，输入即连，无需注册账号。
+- 💬 **摸鱼聊天**：联机时内置聊天框，方便跟队友喊“老师来了！快关游戏！”。
+- 🫣 **一键隐身**：建议搭配 `Ctrl+W` 或 `Alt+Tab` 使用，效果更佳。
+
+---
+
+## 🛠️ 如何开始？（启动步骤）
+
+### 1. 克隆或下载代码
+```bash
+git clone https://github.com/ISFBH/Tank_battle.git
+cd Tank_battle
