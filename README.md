@@ -1,6 +1,6 @@
 # 🎮 老大坦克大战 - 摸鱼专用联机版
 
-[![Version](https://img.shields.io/badge/version-V1.0.0-orange)](https://github.com/ISFBH/Tank_battle/releases/tag/V1.0.0)
+[![Version](https://img.shields.io/badge/version-V1.1.1-orange)](https://github.com/ISFBH/Tank_battle/releases/tag/V1.1.1)
 [![Python](https://img.shields.io/badge/python-3.6+-blue)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/html-纯原生-green)]()
 
